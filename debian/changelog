@@ -1,5 +1,5 @@
-golang-fsnotify (1.1.0-1) UNRELEASED; urgency=medium
+golang-fsnotify (1.1.0-1) experimental; urgency=medium
 
   * Initial release.
 
- -- Tianon Gravi <admwiggin@gmail.com>  Fri, 23 Jan 2015 17:37:14 +0000
+ -- Tianon Gravi <admwiggin@gmail.com>  Tue, 10 Mar 2015 21:51:47 +0000
