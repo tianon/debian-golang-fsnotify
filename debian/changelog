@@ -1,8 +1,8 @@
-golang-fsnotify (1.2.0-1) UNRELEASED; urgency=medium
+golang-fsnotify (1.2.0-1) unstable; urgency=medium
 
   * Update to 1.2.0 upstream release.
 
- -- Tianon Gravi <admwiggin@gmail.com>  Sun, 03 May 2015 05:12:43 +0000
+ -- Tianon Gravi <admwiggin@gmail.com>  Sat, 02 May 2015 23:33:47 -0600
 
 golang-fsnotify (1.1.0-1) experimental; urgency=medium
 
